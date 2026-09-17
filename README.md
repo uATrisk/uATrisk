@@ -58,7 +58,7 @@ Open Source
 
 ## → Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-uATrisk-181717?style=for-the-badge\&logo=github)](https://github.com/uATrisk)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ansh-tomar-03a493302/)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge\&logo=x)](https://x.com/uATrisk)
 
