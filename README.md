@@ -1,6 +1,6 @@
 ## Hi There! ✦
 
-I'm Ansh, a BTech Computer Science & AI student who enjoys building things and figuring out how they work.
+I'm Ansh, a CS & AI Grad who enjoys building things and figuring out how they work.
 
 * → Building software, AI systems, and developer tools
 * → Exploring LLMs, AI agents, backend engineering, and system design
