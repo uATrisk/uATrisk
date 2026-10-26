@@ -2,6 +2,8 @@
 
 I'm Ansh, a CS & AI Grad who enjoys building things and figuring out how they work.
 
+🌐 **Explore my interactive macOS Desktop Portfolio**: **[uatrisk.github.io/Macfolio](https://uatrisk.github.io/Macfolio/)**
+
 * → Building software, AI systems, and developer tools
 * → Exploring LLMs, AI agents, backend engineering, and system design
 * → Interested in turning ideas into real products
@@ -11,9 +13,11 @@ I'm Ansh, a CS & AI Grad who enjoys building things and figuring out how they wo
 
 | Project                        | Description                                                     | Technologies                          |
 | ------------------------------ | --------------------------------------------------------------- | ------------------------------------- |
-| **[Chai Adda](#)**             | Digital signage and advertising platform                        | `Next.js` `Node.js` `MongoDB`         |
-| **[PSYS](#)**                  | Multi-tenant classroom attendance system                        | `Next.js` `Python` `Face Recognition` |
-| **[LSYS](#)**                  | Laundry management system                                       | `Next.js` `Express` `Prisma`          |
+| **[Macfolio](https://uatrisk.github.io/Macfolio/)** 💻 | Interactive macOS desktop portfolio website             | `React` `TypeScript` `Tailwind` `GSAP` |
+| **[CLMS](https://clms-murex.vercel.app/)** | Campus laundry management platform with OTP verification        | `React` `Node.js` `Prisma` `PostgreSQL` |
+| **[TeleVault](https://github.com/uATrisk/tele-vault)** | Zero-Knowledge client-side encrypted media vault        | `React` `WebCrypto` `Cloudflare` `Telegram` |
+| **[Chai Adda](https://chai-adda-system.vercel.app/)** | Full-stack college canteen ordering & management system | `Next.js` `Node.js` `PostgreSQL` `Prisma` |
+| **[PSYS](https://github.com/ps-ys/PSYS)** | Multi-tenant classroom attendance system with computer vision | `Next.js` `Python` `pgvector` `OpenCV` |
 | **[Steam Games Analytics](#)** | Interactive analytics dashboard exploring Steam game data       | `Tableau` `Data Analysis`             |
 | **[Loan Default Analysis](#)** | Data cleaning, analysis, and visualization of loan default data | `Python` `Looker Studio`              |
 
@@ -58,7 +62,7 @@ Open Source
 
 ## → Connect With Me
 
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Macfolio-2ea44f?style=for-the-badge&logo=safari&logoColor=white)](https://uatrisk.github.io/Macfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ansh-tomar-03a493302/)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge\&logo=x)](https://x.com/uATrisk)
 
